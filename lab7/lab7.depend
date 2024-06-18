@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1669302259 source:c:\users\stefa\onedrive - universitatea politehnica bucuresti\poo\lab7\main.cpp
+	"Frigider.h"
+	"Lada_Frig.h"
+
+1669303190 c:\users\stefa\onedrive - universitatea politehnica bucuresti\poo\lab7\produs.h
+	<iostream>
+	<cstring>
+
+1669303054 c:\users\stefa\onedrive - universitatea politehnica bucuresti\poo\lab7\frigider.h
+	"Produs.h"
+
+1669303863 c:\users\stefa\onedrive - universitatea politehnica bucuresti\poo\lab7\lada_frig.h
+	"Produs.h"
+

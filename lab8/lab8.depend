@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1670513440 source:c:\users\stefa\onedrive - universitatea politehnica bucuresti\poo\lab8\main.cpp
+	"Angajat.h"
+	"Student.h"
+
+1670513887 c:\users\stefa\onedrive - universitatea politehnica bucuresti\poo\lab8\angajat.h
+	"Persoana.h"
+
+1670513887 c:\users\stefa\onedrive - universitatea politehnica bucuresti\poo\lab8\persoana.h
+	<iostream>
+	<string>
+	<fstream>
+
+1670513895 c:\users\stefa\onedrive - universitatea politehnica bucuresti\poo\lab8\student.h
+	"Persoana.h"
+

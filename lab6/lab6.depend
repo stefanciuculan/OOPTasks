@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1668699832 source:c:\users\stefa\onedrive - universitatea politehnica bucuresti\poo\lab6\main.cpp
+	"Proprietate.h"
+	"Imobil.h"
+	"Teren.h"
+
+1668699736 source:c:\users\stefa\onedrive - universitatea politehnica bucuresti\poo\lab6\src\imobil.cpp
+	"Imobil.h"
+
+1668699639 c:\users\stefa\onedrive - universitatea politehnica bucuresti\poo\lab6\include\imobil.h
+	<Proprietate.h>
+
+1668700014 c:\users\stefa\onedrive - universitatea politehnica bucuresti\poo\lab6\include\proprietate.h
+	<iostream>
+	<cstring>
+
+1668699832 source:c:\users\stefa\onedrive - universitatea politehnica bucuresti\poo\lab6\src\teren.cpp
+	"Teren.h"
+
+1668699639 c:\users\stefa\onedrive - universitatea politehnica bucuresti\poo\lab6\include\teren.h
+	<Proprietate.h>
+
+1668698835 source:c:\users\stefa\onedrive - universitatea politehnica bucuresti\poo\lab6\src\proprietate.cpp
+	"Proprietate.h"
+

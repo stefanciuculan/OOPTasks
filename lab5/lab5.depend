@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1668094700 source:c:\users\stefa\onedrive - universitatea politehnica bucuresti\poo\lab5\main.cpp
+	"TV.h"
+
+1668091041 source:c:\users\stefa\onedrive - universitatea politehnica bucuresti\poo\lab5\produs.cpp
+	"Produs.h"
+
+1668090977 c:\users\stefa\onedrive - universitatea politehnica bucuresti\poo\lab5\produs.h
+	<iostream>
+	<string.h>
+
+1668092149 source:c:\users\stefa\onedrive - universitatea politehnica bucuresti\poo\lab5\electrocasnic.cpp
+	"Electrocasnic.h"
+
+1668093682 c:\users\stefa\onedrive - universitatea politehnica bucuresti\poo\lab5\electrocasnic.h
+	"Produs.h"
+
+1668095392 c:\users\stefa\onedrive - universitatea politehnica bucuresti\poo\lab5\tv.h
+	"Electrocasnic.h"
+
+1668094767 source:c:\users\stefa\onedrive - universitatea politehnica bucuresti\poo\lab5\tv.cpp
+	"TV.h"
+
